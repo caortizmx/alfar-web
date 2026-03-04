@@ -1,27 +1,42 @@
 @import "tailwindcss";
 
 :root {
+  /* Nepal Flag palette */
+  --nepal-red: #dc143c;
+  --nepal-blue: #003893;
+  --nepal-white: #ffffff;
+
+  /* App tokens */
   --background: #ffffff;
   --foreground: #0b0f19;
+  --muted: #f5f7fb;
+  --border: #e6e8ef;
+
+  --brand: var(--nepal-red);
+  --brand-2: var(--nepal-blue);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #070a12;
+    --foreground: #eef2ff;
+    --muted: #0b1020;
+    --border: #1a2240;
   }
 }
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* Mejoras visuales globales */
 a {
   text-decoration: none;
 }
