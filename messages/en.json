@@ -1,0 +1,79 @@
+{
+  "Home": {
+    "badge": "Community school in Nepal",
+    "title": "Alfar Community School",
+    "subtitle": "Practical, dignified education with purpose for children in Nepal—centered on the community.",
+    "ctaPrimary": "View programs",
+    "ctaSecondary": "Learn about our mission",
+    "heroAlt": "Students at Alfar",
+    "heroCardTitle": "Learn today, build the future",
+    "heroCardText": "Classes, support and activities that strengthen skills, confidence and opportunities.",
+
+    "hero": {
+      "images": {
+        "globe": "Education without borders",
+        "window": "Classrooms open to the future",
+        "file": "Programs and resources"
+      }
+    },
+
+    "stats": {
+      "children": "Children supported",
+      "programs": "Active programs",
+      "community": "Partner communities",
+      "volunteers": "Volunteers"
+    },
+
+    "mission": {
+      "title": "Our mission",
+      "body": "Alfar exists to open real opportunities through education, support and community projects—with cultural relevance, inclusion and measurable outcomes.",
+      "imageAlt": "Classroom activity",
+      "captionTitle": "Education with context",
+      "captionText": "Learning grounded in local reality, with modern tools and community values.",
+      "pillars": {
+        "p1": { "title": "Access", "desc": "We reduce barriers so more students can learn and grow." },
+        "p2": { "title": "Quality", "desc": "Clear materials, active methods and continuous improvement." },
+        "p3": { "title": "Support", "desc": "Close follow-up, wellbeing and family involvement." },
+        "p4": { "title": "Impact", "desc": "We track progress and strengthen community capacity." }
+      }
+    },
+
+    "programs": {
+      "title": "Programs",
+      "subtitle": "Practical programs for learning, skills and wellbeing.",
+      "link": "See all",
+      "tag": "Alfar",
+      "cardCta": "Explore goals, schedules and how to join.",
+      "p1": { "title": "Academic support", "desc": "Reading, math and science with personalized guidance." },
+      "p2": { "title": "Languages & communication", "desc": "Functional English, expression and tools for the future." },
+      "p3": { "title": "Technology & skills", "desc": "Basic computing, logical thinking and guided projects." }
+    },
+
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "Moments of learning, community and growth.",
+      "link": "View gallery",
+      "images": {
+        "one": "Activity 1",
+        "two": "Activity 2",
+        "three": "Activity 3"
+      }
+    },
+
+    "cta": {
+      "title": "Join Alfar",
+      "subtitle": "Support as a volunteer, partner or donor. Every contribution builds real opportunities.",
+      "bullets": {
+        "b1": "Remote or local volunteering",
+        "b2": "Support with school supplies",
+        "b3": "Partnerships with schools and communities",
+        "b4": "Program sponsorships"
+      },
+      "cardTitle": "Want to talk?",
+      "cardText": "Email us and we’ll share how to help, current needs and next steps.",
+      "primary": "Contact us",
+      "secondary": "Send email",
+      "disclaimer": "You can update the text and numbers once you have real data."
+    }
+  }
+}

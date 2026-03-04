@@ -1,0 +1,79 @@
+{
+  "Home": {
+    "badge": "Escuela comunitaria en Nepal",
+    "title": "Escuela Comunitaria Alfar",
+    "subtitle": "Educación práctica, digna y con propósito para niñas y niños en Nepal—con la comunidad al centro.",
+    "ctaPrimary": "Ver programas",
+    "ctaSecondary": "Conoce nuestra misión",
+    "heroAlt": "Estudiantes en Alfar",
+    "heroCardTitle": "Aprender hoy, construir futuro",
+    "heroCardText": "Clases, apoyo y actividades que fortalecen habilidades, confianza y oportunidades.",
+
+    "hero": {
+      "images": {
+        "globe": "Educación sin fronteras",
+        "window": "Aulas abiertas al futuro",
+        "file": "Programas y recursos"
+      }
+    },
+
+    "stats": {
+      "children": "Niñas y niños atendidos",
+      "programs": "Programas activos",
+      "community": "Comunidades aliadas",
+      "volunteers": "Voluntariado"
+    },
+
+    "mission": {
+      "title": "Nuestra misión",
+      "body": "Alfar existe para abrir oportunidades reales mediante educación, acompañamiento y proyectos comunitarios—con enfoque cultural, inclusión y resultados medibles.",
+      "imageAlt": "Clase en aula",
+      "captionTitle": "Educación con contexto",
+      "captionText": "Aprendizaje basado en la realidad local, con herramientas modernas y valores comunitarios.",
+      "pillars": {
+        "p1": { "title": "Acceso", "desc": "Reducimos barreras para que más estudiantes puedan aprender y avanzar." },
+        "p2": { "title": "Calidad", "desc": "Materiales claros, metodologías activas y mejora continua." },
+        "p3": { "title": "Acompañamiento", "desc": "Seguimiento cercano, bienestar y participación familiar." },
+        "p4": { "title": "Impacto", "desc": "Medimos progreso y fortalecemos capacidades en la comunidad." }
+      }
+    },
+
+    "programs": {
+      "title": "Programas",
+      "subtitle": "Un set de programas prácticos para aprendizaje, habilidades y bienestar.",
+      "link": "Ver todos",
+      "tag": "Alfar",
+      "cardCta": "Descubre objetivos, horarios y cómo participar.",
+      "p1": { "title": "Refuerzo escolar", "desc": "Lectura, matemáticas y ciencias con apoyo personalizado." },
+      "p2": { "title": "Idiomas y comunicación", "desc": "Inglés funcional, expresión y herramientas para el futuro." },
+      "p3": { "title": "Tecnología y habilidades", "desc": "Computación básica, pensamiento lógico y proyectos guiados." }
+    },
+
+    "gallery": {
+      "title": "Galería",
+      "subtitle": "Momentos de aprendizaje, comunidad y crecimiento.",
+      "link": "Ver galería",
+      "images": {
+        "one": "Actividad 1",
+        "two": "Actividad 2",
+        "three": "Actividad 3"
+      }
+    },
+
+    "cta": {
+      "title": "Súmate a Alfar",
+      "subtitle": "Apoya como voluntario, aliado o donante. Cada aporte suma oportunidades reales.",
+      "bullets": {
+        "b1": "Voluntariado remoto o local",
+        "b2": "Apoyo con materiales escolares",
+        "b3": "Alianzas con escuelas y comunidades",
+        "b4": "Patrocinios para programas"
+      },
+      "cardTitle": "¿Hablamos?",
+      "cardText": "Escríbenos y te compartimos cómo participar, necesidades actuales y próximos pasos.",
+      "primary": "Contactar",
+      "secondary": "Enviar correo",
+      "disclaimer": "Puedes cambiar el texto y los números cuando tengas datos reales."
+    }
+  }
+}
